@@ -5,3 +5,5 @@ RVN
 DGB
 LTC
 RUNE
+ICP
+ADA
